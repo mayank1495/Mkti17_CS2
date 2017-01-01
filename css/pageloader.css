@@ -1,15 +1,4 @@
-/*----------------------------------------------------------------------
-Page loader CSS BY HighHay
 
-USAGE:
-------
-- Add this as an external CSS file and put it before other css links inside
-html file
-- Add the following tag inside HTML file :
-<div class='page-loader'>
-    <div><i class='fa fa-spinner  fa-spin'></i><p>loading</p></div>
-</div>
-------------------------------------------------------------------------*/
 .page-loader{
     position: fixed;
     z-index: 200;
